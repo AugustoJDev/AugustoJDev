@@ -15,7 +15,7 @@ Possuo interesse em fazer uma faculdade de **Análise e Dev de Sistemas** ou at�
 ![NoSQL](https://camo.githubusercontent.com/29fc4bb81d4dd27b793216a64710a221270815ae7b5bb3895298626288589dcb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f53514c2d626c61636b3f7374796c653d666c61742d737175617265)
 
 ### 📁 | Projetos
-- **Ruby** [ Discord Bot using [discord.js](https://discord.js.org/#/) library ]
+- **Ruby** [ Bot para Discord usando a library [discord.js](https://discord.js.org/#/) ]
 - [Brainly Answer](https://www.youtube.com/watch?v=DO4QGqHDiFY) [ Programa desenvolvido para acessar as respostas do site Brainly gratuitamente ]
 
 ### 📪 | Contato
