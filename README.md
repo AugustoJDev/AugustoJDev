@@ -17,6 +17,7 @@ Possuo interesse em fazer uma faculdade de **Análise e Dev de Sistemas** ou at�
 ### 📁 | Projetos
 - **Ruby** [ Bot para Discord usando a library [discord.js](https://discord.js.org/#/) ]
 - [Brainly Answer](https://www.youtube.com/watch?v=DO4QGqHDiFY) [ Programa desenvolvido para acessar as respostas do site Brainly gratuitamente ]
+- [Nick Checker - League of Legends](https://github.com/WinchesterDev/nick-checker-lol) [ Script que checa se um apelido de invocador está disponível ]
 
 ### 📪 | Contato
 - Discord - Doctor.#0666
