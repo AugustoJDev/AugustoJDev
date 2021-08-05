@@ -2,8 +2,6 @@
 ### 👨‍🦰 | Quem sou
 Sou um **desenvolvedor iniciante** em busca de conhecimento sobre o mundo da programação, tendo como foco a criação de bots para os aplicativos [Discord](discord.com) e [WhatsApp](https://www.whatsapp.com/), além de ferramentas para aplicativos e sites aleatórios por hobby.
 
-Possuo interesse em fazer uma faculdade de **Análise e Dev de Sistemas** ou até **Segurança da Informação**, pois são áreas que eu adoro, tendo como exemplo meu ídolo dessa área ( Gabriel Pato ) que estudou S.I. quando ainda era criança.
-
 ### 💻 | Tecnologias usadas
 - ![JavaScript](https://camo.githubusercontent.com/bb5a9fb2b3fcc08fd63d8b5f22cbfd691658a5cf95a44c35eb3f3aa78f0f7c7a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3965376531353f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074)
 ![Python](https://camo.githubusercontent.com/18b4ccdf98de4129589603a0e8b551954dd8878daebbd8b3aa6a13a455ff4806/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3063306330633f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e)
