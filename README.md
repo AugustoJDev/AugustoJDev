@@ -19,4 +19,4 @@ Sou um **desenvolvedor iniciante** em busca de conhecimento sobre o mundo da pro
 
 ### 📪 | Contato
 - Discord - Doctor.#0666
-- E-mail - shirocreatoroficial@gmail.com
+- E-mail - winchesterdeveloper@gmail.com
