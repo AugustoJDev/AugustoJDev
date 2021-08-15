@@ -16,6 +16,7 @@ Sou um **desenvolvedor iniciante** em busca de conhecimento sobre o mundo da pro
 - **Ruby** [ Bot para Discord usando a library [discord.js](https://discord.js.org/#/) ]
 - [Brainly Answer](https://www.youtube.com/watch?v=DO4QGqHDiFY) [ Programa desenvolvido para acessar as respostas do site Brainly gratuitamente ]
 - [Nick Checker - League of Legends](https://github.com/WinchesterDev/nick-checker-lol) [ Script que checa se um apelido de invocador está disponível ]
+- [getEmoji() Global - discord.js](https://github.com/WinchesterDev/getEmoji-global) [ Script que pega emojis em qualquer lugar do código sem precisar definir o mesmo no arquivo ]
 
 ### 📪 | Contato
 - Discord - Doctor.#0666
