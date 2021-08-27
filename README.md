@@ -14,10 +14,6 @@ Sou um **desenvolvedor iniciante** em busca de conhecimento sobre o mundo da pro
 ![NodeJS](https://camo.githubusercontent.com/f939bf73ac868c5cca36f0e1b8809ad72bd20eee0ceffa70b41af4e9bcebb4c3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d3033316330333f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73)
 - ![SQL](https://camo.githubusercontent.com/0865007c3d10bdc6a865a66fd8b642500f7cb525846bd0e4a1382ad81cdce008/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53514c2d626c61636b3f7374796c653d666c61742d737175617265)
 ![NoSQL](https://camo.githubusercontent.com/29fc4bb81d4dd27b793216a64710a221270815ae7b5bb3895298626288589dcb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f53514c2d626c61636b3f7374796c653d666c61742d737175617265)
-<div>
-  <a href="https://github.com/WinchesterDev">
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinchesterDev&&layout=compact&hide=shell&theme=jolly"/>
-</div>
 
 ### 🤖 | Hosting/SaaS
 - ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white)
@@ -36,3 +32,7 @@ Sou um **desenvolvedor iniciante** em busca de conhecimento sobre o mundo da pro
 - Discord - Doctor.#0666
 - E-mail - winchesterdeveloper@gmail.com
 
+<div>
+  <a href="https://github.com/WinchesterDev">
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinchesterDev&&layout=compact&hide=shell&theme=jolly"/>
+</div>
