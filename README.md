@@ -1,4 +1,4 @@
-# Bem-vindo(a) ao meu Portfólio!
+# ![poppy](https://cdn.glitch.com/d5849b6d-b525-43f0-a87c-280ff619d588%2FWebp.net-resizeimage%20(2).png?v=1627787432690) Bem-vindo(a) ao meu Portfólio! ![poppy](https://cdn.glitch.com/d5849b6d-b525-43f0-a87c-280ff619d588%2FWebp.net-resizeimage%20(2).png?v=1627787432690)
 ### 👨‍🦰 | Quem sou
 Sou um **desenvolvedor iniciante** em busca de conhecimento sobre o mundo da programação, tendo como foco a criação de bots para os aplicativos [Discord](discord.com) e [WhatsApp](https://www.whatsapp.com/), além de ferramentas para aplicativos e sites aleatórios por hobby.
 
