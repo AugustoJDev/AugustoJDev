@@ -29,7 +29,7 @@ Sou um **desenvolvedor iniciante** em busca de conhecimento sobre o mundo da pro
 - [getEmoji() Global - discord.js](https://github.com/WinchesterDev/getEmoji-global) [ Script que pega emojis em qualquer lugar do código sem precisar definir o mesmo no arquivo ]
 
 ### 📪 | Contato
-- Discord - Kamai#2267
+- Discord - Kamai#3260
 - E-mail - winchesterdeveloper@gmail.com
 
 <div>
