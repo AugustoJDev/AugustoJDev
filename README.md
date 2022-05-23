@@ -20,7 +20,7 @@ Sou um **desenvolvedor iniciante** em busca de conhecimento sobre o mundo da pro
 - ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 📁 | Projetos
-- [RankedMod AntiRaid](express.winchesterdev.repl.co) [ Bot para Discord usando a library [discord.js](https://discord.js.org/#/) ]
+- [RankedMod AntiRaid](https://express.winchesterdev.repl.co) [ Bot para Discord usando a library [discord.js](https://discord.js.org/#/) ]
 - [Brainly Answer](https://www.youtube.com/watch?v=DO4QGqHDiFY) [ Programa desenvolvido para acessar as respostas do site Brainly gratuitamente ]
 - [Nick Checker - League of Legends](https://github.com/WinchesterDev/nick-checker-lol) [ Script que checa se um apelido de invocador está disponível ]
 - [getEmoji() Global - discord.js](https://github.com/WinchesterDev/getEmoji-global) [ Script que pega emojis em qualquer lugar do código sem precisar definir o mesmo no arquivo ]
