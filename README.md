@@ -31,5 +31,5 @@ Sou um **desenvolvedor iniciante** em busca de conhecimento sobre o mundo da pro
 
 <div>
   <a href="https://github.com/AugustoJDev">
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinchesterDev&&layout=compact&hide=shell&theme=jolly"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoJDev&&layout=compact&hide=shell&theme=jolly"/>
 </div>
