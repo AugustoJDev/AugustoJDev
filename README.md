@@ -14,10 +14,19 @@ I'm a **junior developer** looking for knowledge about the world of programming,
 - [![Databases](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
 ### 📁 | Projects
-- [Discord Oauth2](https://github.com/AugustoJDev/discord-oauth2) [ Discord Oauth2 System with Express ]
-- [Economy Bot - Discord](https://github.com/AugustoJDev/economy) [ An economy bot using discord.js and mongodb ]
+- [PHP CRUD](https://github.com/AugustoJDev/php-crud) [ A Simple PHP CRUD using MySQL ] 
+  - Technologies ![](https://img.icons8.com/?size=24&id=fAMVO_fuoOuC&format=png)![](https://img.icons8.com/?size=24&id=108784&format=png)![](https://img.icons8.com/?size=24&id=20909&format=png)![](https://img.icons8.com/?size=24&id=21278&format=png)
+  - Database ![](https://img.icons8.com/?size=24&id=42904&format=png)
+
+- [Economy Bot - Discord](https://github.com/AugustoJDev/economy) [ An economy bot using discord.js and mongodb ] 
+  - Technologies ![](https://img.icons8.com/?size=24&id=108784&format=png)![](https://img.icons8.com/?size=24&id=hsPbhkOH4FMe&format=png)
+  - Database ![](https://img.icons8.com/?size=24&id=8rKdRqZFLurS&format=png)
+
+- [Discord Oauth2](https://github.com/AugustoJDev/discord-oauth2) [ Discord Oauth2 System with Express ] 
+  - Technologies ![](https://img.icons8.com/?size=24&id=108784&format=png)![](https://img.icons8.com/?size=24&id=hsPbhkOH4FMe&format=png)![](https://img.icons8.com/?size=24&id=20909&format=png)![](https://img.icons8.com/?size=24&id=21278&format=png)![](https://img.icons8.com/?size=24&id=9Gfx4Dfxl0JK&format=png)
+
 - [League Support](https://github.com/AugustoJDev/LeagueSupport) [ League of Legends App who realizes some functions like: accept queue, pick champions, etc ]
-- [Discord Handler v14](https://github.com/AugustoJDev/discord-v14-source) [ Discord bot handler to get your Developer Badge and uses your bot ]
+  - Technologies ![](https://img.icons8.com/?size=24&id=108784&format=png)![](https://img.icons8.com/?size=24&id=20909&format=png)![](https://img.icons8.com/?size=24&id=21278&format=png)![](https://img.icons8.com/?size=24&id=46740&format=png)
 
 ### 📪 | Contact
 - E-mail - winchesterdeveloper@gmail.com
