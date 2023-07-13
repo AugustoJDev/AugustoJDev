@@ -1,4 +1,4 @@
-# Welcome to my Portfolio!
+# Welcome to my GitHub!
 ### 👨‍🦰 | Who I am
 I'm a **junior developer** looking for knowledge about the world of programming, focusing on Back-End, as well as tools for random hobby apps and websites.
 
