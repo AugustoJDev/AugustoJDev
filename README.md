@@ -3,7 +3,7 @@
 I'm a **junior developer** looking for knowledge about the world of programming, focusing on Back-End, as well as tools for random hobby apps and websites.
 
 <p align="center"> Thanks to everyone who visited my profile 🥰 </p>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/WinchesterDev/count.svg" /></p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/AugustoJDev/count.svg" /></p>
 
 ### 💻 | My Skills
 - [![My Skills](https://skillicons.dev/icons?i=php,js,html,css,nodejs,express)](https://skillicons.dev)
