@@ -18,8 +18,8 @@ I'm a **junior developer** looking for knowledge about the world of programming,
   - Technologies ![](https://img.icons8.com/?size=24&id=fAMVO_fuoOuC&format=png)![](https://img.icons8.com/?size=24&id=108784&format=png)![](https://img.icons8.com/?size=24&id=20909&format=png)![](https://img.icons8.com/?size=24&id=21278&format=png)
   - Database ![](https://img.icons8.com/?size=24&id=42904&format=png)
 
-- [Economy Bot - Discord](https://github.com/AugustoJDev/economy) [ An economy bot using discord.js and mongodb ] 
-  - Technologies ![](https://img.icons8.com/?size=24&id=108784&format=png)![](https://img.icons8.com/?size=24&id=hsPbhkOH4FMe&format=png)
+- [MongoDB API](https://github.com/AugustoJDev/mongodb-api) [ API created to replace the one currently used in my repository: PHP-CRUD ] 
+  - Technologies ![](https://img.icons8.com/?size=24&id=108784&format=png)![](https://img.icons8.com/?size=24&id=hsPbhkOH4FMe&format=png)![](https://img.icons8.com/?size=24&id=20909&format=png)![](https://img.icons8.com/?size=24&id=21278&format=png)![](https://img.icons8.com/?size=24&id=9Gfx4Dfxl0JK&format=png)
   - Database ![](https://img.icons8.com/?size=24&id=8rKdRqZFLurS&format=png)
 
 - [Discord Oauth2](https://github.com/AugustoJDev/discord-oauth2) [ Discord Oauth2 System with Express ] 
