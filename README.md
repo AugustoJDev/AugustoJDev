@@ -2,9 +2,6 @@
 ### 👨‍🦰 | Who I am
 I'm a **junior developer** looking for knowledge about the world of programming, focusing on Back-End, as well as tools for random hobby apps and websites.
 
-<p align="center"> Thanks to everyone who visited my profile 🥰 </p>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/AugustoJDev/count.svg" /></p>
-
 ### 💻 | My Skills
 - [![My Skills](https://skillicons.dev/icons?i=php,js,html,css,nodejs,express)](https://skillicons.dev)
 
@@ -13,23 +10,8 @@ I'm a **junior developer** looking for knowledge about the world of programming,
 ### 📦 | Databases
 - [![Databases](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
-### 📁 | Projects
-- [PHP CRUD](https://github.com/AugustoJDev/php-crud) [ A Simple PHP CRUD using MySQL ] 
-  - Technologies ![](https://img.icons8.com/?size=24&id=fAMVO_fuoOuC&format=png)![](https://img.icons8.com/?size=24&id=108784&format=png)![](https://img.icons8.com/?size=24&id=20909&format=png)![](https://img.icons8.com/?size=24&id=21278&format=png)
-  - Database ![](https://img.icons8.com/?size=24&id=42904&format=png)
-
-- [MongoDB API](https://github.com/AugustoJDev/mongodb-api) [ API created to replace the one currently used in my repository: PHP-CRUD ] 
-  - Technologies ![](https://img.icons8.com/?size=24&id=108784&format=png)![](https://img.icons8.com/?size=24&id=hsPbhkOH4FMe&format=png)![](https://img.icons8.com/?size=24&id=20909&format=png)![](https://img.icons8.com/?size=24&id=21278&format=png)![](https://img.icons8.com/?size=24&id=9Gfx4Dfxl0JK&format=png)
-  - Database ![](https://img.icons8.com/?size=24&id=8rKdRqZFLurS&format=png)
-
-- [Discord Oauth2](https://github.com/AugustoJDev/discord-oauth2) [ Discord Oauth2 System with Express ] 
-  - Technologies ![](https://img.icons8.com/?size=24&id=108784&format=png)![](https://img.icons8.com/?size=24&id=hsPbhkOH4FMe&format=png)![](https://img.icons8.com/?size=24&id=20909&format=png)![](https://img.icons8.com/?size=24&id=21278&format=png)![](https://img.icons8.com/?size=24&id=9Gfx4Dfxl0JK&format=png)
-
-- [League Support](https://github.com/AugustoJDev/LeagueSupport) [ League of Legends App who realizes some functions like: accept queue, pick champions, etc ]
-  - Technologies ![](https://img.icons8.com/?size=24&id=108784&format=png)![](https://img.icons8.com/?size=24&id=20909&format=png)![](https://img.icons8.com/?size=24&id=21278&format=png)![](https://img.icons8.com/?size=24&id=46740&format=png)
-
 ### 📪 | Contact
-- E-mail - winchesterdeveloper@gmail.com
+- E-mail - augustojdev@gmail.com
 
 <div>
   <a href="https://github.com/AugustoJDev">
