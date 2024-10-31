@@ -3,12 +3,12 @@
 I'm a **junior developer** looking for knowledge about the world of programming, focusing on Back-End, as well as tools for random hobby apps and websites.
 
 ### 💻 | My Skills
-- [![My Skills](https://skillicons.dev/icons?i=php,js,html,css,nodejs,express)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=python,js,html,css,nodejs,express)](https://skillicons.dev)
 
 ### 🤖 | Hosting/SaaS
 - [![Hosts](https://skillicons.dev/icons?i=vercel,replit)](https://skillicons.dev)
 ### 📦 | Databases
-- [![Databases](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+- [![Databases](https://skillicons.dev/icons?i=mysql,mongodb,firebase)](https://skillicons.dev)
 
 ### 📪 | Contact
 - E-mail - augustojdev@gmail.com
