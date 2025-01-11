@@ -1,6 +1,6 @@
 # Welcome to my GitHub!
 ### 👨‍🦰 | Who I am
-I'm a **junior developer** looking for knowledge about the world of programming, focusing on Back-End, as well as tools for random hobby apps and websites.
+I'm a **Developer** looking for knowledge about the world of programming, focusing on Back-End & Software Develop, as well as tools for random hobby apps and websites.
 
 ### 💻 | My Skills
 - [![My Skills](https://skillicons.dev/icons?i=python,js,html,css,nodejs,express)](https://skillicons.dev)
