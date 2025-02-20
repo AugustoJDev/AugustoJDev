@@ -3,12 +3,12 @@
 I'm a **Developer** looking for knowledge about the world of programming, focusing on Back-End & Software Develop, as well as tools for random hobby apps and websites.
 
 ### 💻 | My Skills
-- [![My Skills](https://skillicons.dev/icons?i=python,js,html,css,nodejs,express)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=python,js,typescript,html,css,nodejs,express,nextjs,nestjs)](https://skillicons.dev)
 
 ### 🤖 | Hosting/SaaS
 - [![Hosts](https://skillicons.dev/icons?i=vercel,replit)](https://skillicons.dev)
 ### 📦 | Databases
-- [![Databases](https://skillicons.dev/icons?i=mysql,mongodb,firebase)](https://skillicons.dev)
+- [![Databases](https://skillicons.dev/icons?i=postgresql,mongodb,firebase)](https://skillicons.dev)
 
 ### 🔗 | Portfolio
 - https://augustojdev.tech
