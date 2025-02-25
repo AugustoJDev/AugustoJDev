@@ -6,7 +6,7 @@ I'm a **Developer** looking for knowledge about the world of programming, focusi
 - [![My Skills](https://skillicons.dev/icons?i=python,js,typescript,html,css,nodejs,express,nextjs,nestjs)](https://skillicons.dev)
 
 ### 🤖 | Hosting/SaaS
-- [![Hosts](https://skillicons.dev/icons?i=vercel,replit)](https://skillicons.dev)
+- [![Hosts](https://skillicons.dev/icons?i=vercel,replit,railway,glitch)](https://skillicons.dev)
 ### 📦 | Databases
 - [![Databases](https://skillicons.dev/icons?i=postgresql,mongodb,firebase)](https://skillicons.dev)
 
